@@ -52,8 +52,11 @@ Analyzed recovery ratings month-wise to identify trends. Discovered lower recove
 Tools and Skills
 
 Power BI: Utilized Power BI for data visualization and dashboard creation.
+
 Data Analysis: Conducted thorough analysis of healthcare data to extract meaningful insights.
+
 Statistical Analysis: Applied statistical techniques to identify correlations and trends within the data.
+
 Domain Knowledge: Leveraged domain knowledge in healthcare to interpret findings and provide context to the analysis.
 
 Takeaways
